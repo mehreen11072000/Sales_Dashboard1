@@ -54,6 +54,3 @@ The data is pulled directly from a SQL Server database, and Power BI is used to 
 - Include time-series analysis for sales forecasting.
 - Implement additional KPIs or metrics that are important for the business.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
