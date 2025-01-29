@@ -47,6 +47,7 @@ The data is pulled directly from a SQL Server database, and Power BI is used to 
 
 - **SQL Queries**: Contains the SQL queries used to extract data.
 - **Power BI File**: `Sales_Dashboard1.pbix`, the Power BI dashboard file that contains all the visualizations.
+## To download the dataset: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms#download-backup-files
 
 ## Future Enhancements
 
